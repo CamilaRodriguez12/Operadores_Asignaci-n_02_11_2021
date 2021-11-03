@@ -20,7 +20,7 @@ nombre = apellido;
 console.log(nombre);
 //end asignación
 
-console.log(`%c x: %c ${x} %c y: %c ${y}`,mystyle_b,mystyle_y,mystyle_b,mystyle_y);
+console.log(`%c x: %c ${x} %c y: %c ${y}`,mystyle_b,mystyle_y,mystyle_b,mystyle_y):
 
 //Operador de adición '+' 
 console.group("Adicion '+' ");
